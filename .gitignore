@@ -1,5 +1,9 @@
 *.h5
 __pycache__
-env
-*.ipynb
+.DS_Store
+.venv
+poetry.lock
+*.egg-info
+.vscode
+.mypy_cache
 .ipynb_checkpoints

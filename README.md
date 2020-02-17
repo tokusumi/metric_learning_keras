@@ -5,13 +5,13 @@ Implemented with Keras
 This repository includes a comparison between L2-softmaxloss vs softmaxloss for metric learning.
 I constructed Siamese network to calculate pointwise similarity between two images.
 
-See [notebook](https://github.com/tokusumi/metric_learning_keras/blob/master/L2SoftmaxLoss/compare_L2SoftmaxLoss.ipynb)
+See [notebook](https://github.com/tokusumi/metric_learning_keras/blob/master/metric_learning_keras/L2SoftmaxLoss/notebooks/compare_L2SoftmaxLoss.ipynb)
 
 ## Dataset
 MNIST handwritten digit image dataset: http://yann.lecun.com/exdb/mnist/
 
 ## Results
-![PR curve](https://github.com/tokusumi/metric_learning_keras/blob/master/L2SoftmaxLoss/PR_curve_l2.png)
+![PR curve](https://github.com/tokusumi/metric_learning_keras/blob/master/metric_learning_keras/L2SoftmaxLoss/notebooks/PR_curve_l2.png)
 
 ## Refs
 
